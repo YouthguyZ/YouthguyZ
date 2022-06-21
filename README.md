@@ -15,11 +15,7 @@
 - 🌐  &#160;![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-
-  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
-
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+  ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -35,9 +31,7 @@
 
 
 
-> I like making friends. so if you want to say hi, I'll be happy to meet you!🐼
-
-
+> <strong>*I like making friends. so if you want to say hi, I'll be happy to meet you!*</strong>🐼
 
 
 
