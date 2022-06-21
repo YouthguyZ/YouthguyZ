@@ -26,7 +26,7 @@
 
 - [GITHUB](https://github.com/YouthguyZ)
 - [BLOG](https://YouthguyZ.github.io)
-- [EMAIL](2281300996@qq.com)
+- [EMAIL](mailto:axegan88@gmail.com)
 
 
 
