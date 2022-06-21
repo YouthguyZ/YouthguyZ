@@ -8,7 +8,7 @@
 
 ### ❤️ Code
 
-![](https://github-readme-stats.vercel.app/api?username=YouthguyZ&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=YouthguyZ&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true)
 
 ### 🛠️ Tech Stack
 
@@ -26,7 +26,7 @@
 
 - [GITHUB](https://github.com/YouthguyZ)
 - [BLOG](https://YouthguyZ.github.io)
-- [EMAIL](mailto:axegan88@gmail.com)
+- [GMAIL](mailto:axegan88@gmail.com)
 
 
 
