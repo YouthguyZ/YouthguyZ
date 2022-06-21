@@ -1,4 +1,4 @@
-### **Hi there 👋 **
+### Hi there 👋
 
 - ✨ I mainly use VueJs and React for front-end development.
 - 🐼 I like writing tech ariticles in my **spare** time.
@@ -35,7 +35,7 @@
 
 
 
-> ***I like making friends. so if you want to say hi, I'll be happy to meet you!***🐼
+> I like making friends. so if you want to say hi, I'll be happy to meet you!🐼
 
 
 
