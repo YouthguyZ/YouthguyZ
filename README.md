@@ -10,6 +10,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=YouthguyZ&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouthguyZ&layout=compact&show_icons=true&icon_color=0366d6&bg_color=ffffff" align="right"/>
+
 ### 🛠️ Tech Stack
 
 - 🌐  &#160;![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
