@@ -10,9 +10,9 @@
 
 ### ❤️ Code
 
-![](https://github-readme-stats.vercel.app/api?username=YouthguyZ&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true)
-
 <img src="https://www.oscs1024.com/platform/badge/YouthguyZ/wechat-app.svg?size=large&layout=compact&show_icons=true&icon_color=0366d6&bg_color=ffffff" align="right"/>
+
+![](https://github-readme-stats.vercel.app/api?username=YouthguyZ&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true)
 
 ### 🛠️ Tech Stack
 
