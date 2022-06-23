@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouthguyZ&layout=compact&show_icons=true&icon_color=0366d6&bg_color=ffffff" align="right"/>
+<img src="https://www.oscs1024.com/platform/badge/YouthguyZ/wechat-app.svg?size=large&layout=compact&show_icons=true&icon_color=0366d6&bg_color=ffffff" align="right"/>
 
 - ✨ I mainly use VueJs and React for front-end development.
 - 🐼 I like writing tech ariticles in my **spare** time.
@@ -10,7 +10,7 @@
 
 ### ❤️ Code
 
-<img src="https://www.oscs1024.com/platform/badge/YouthguyZ/wechat-app.svg?size=large&layout=compact&show_icons=true&icon_color=0366d6&bg_color=ffffff" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouthguyZ&layout=compact&show_icons=true&icon_color=0366d6&bg_color=ffffff" align="right"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=YouthguyZ&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true)
 
