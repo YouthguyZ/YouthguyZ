@@ -12,7 +12,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouthguyZ&layout=compact&show_icons=true&icon_color=0366d6&bg_color=ffffff" align="right"/>
 
-![](https://github-readme-stats.vercel.app/api?username=YouthguyZ&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true)
+<img style="width:480px" src="https://github-readme-stats.vercel.app/api?username=YouthguyZ&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true"/>
 
 ### 🛠️ Tech Stack
 
