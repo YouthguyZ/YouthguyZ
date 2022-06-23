@@ -12,7 +12,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=YouthguyZ&show_icons=true&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true)
 
-[![OSCS Status](https://www.oscs1024.com/platform/badge/YouthguyZ/wechat-app.svg?size=large)](https://www.oscs1024.com/project/YouthguyZ/wechat-app?ref=badge_large)
+<img src="https://www.oscs1024.com/platform/badge/YouthguyZ/wechat-app.svg?size=large&layout=compact&show_icons=true&icon_color=0366d6&bg_color=ffffff" align="right"/>
 
 ### 🛠️ Tech Stack
 
