@@ -9,7 +9,7 @@
 ### ❤️ Code
 
 <div> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YouthguyZ&icon_color=0366d6&bg_color=ffffff&count_private=true&hide_title=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YouthguyZ&icon_color=0366d6&bg_color=ffffff&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouthguyZ&layout=compact&hide=html,css&show_icons=true&icon_color=0366d6&bg_color=ffffff&langs_count=6" /></div>
 
 
