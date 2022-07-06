@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://paper.tanyaodan.com/img/cat.jpg" height="200" width="200"/>
+<img align="right" src="https://paper.tanyaodan.com/img/cat.jpg" height="150" width="150"/>
 
 - ✨ I mainly use VueJs and React for front-end development.
 - 🐼 I like writing tech ariticles in my **spare** time.
