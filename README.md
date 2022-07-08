@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="D:\MyBlog\public-profile\assets\2daa054e278c438db133ea4a97f9c378.gif "/>
+
 <img align="right" src="https://paper.tanyaodan.com/img/cat.jpg" height="150" width="150"/>
 
 - ✨ I mainly use VueJs and React for front-end development.
@@ -28,8 +30,6 @@
 - 💼 &#160;![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ### 📲 Contact 
-
-//<iframe  frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1852332104&auto=1&height=66"></iframe>
 
 - [GITHUB](https://github.com/YouthguyZ)
 - [BLOG](https://YouthguyZ.github.io)
