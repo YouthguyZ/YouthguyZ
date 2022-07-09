@@ -1,6 +1,18 @@
+<!-- 动态打字效果 --> 
+
+  <h1 align="center"> 
+      < a href="https://sunguoqi.com/"> 
+      	<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Keep calm and carry on!&center=true&size=27"> 
+      </ a> 
+  </h1> 
+
+     <!-- 敲代码的图片 --> 
+
+  <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div> 
+
 ### Hi there 👋
 
-<img align="right" src="D:\MyBlog\public-profile\assets\2daa054e278c438db133ea4a97f9c378.gif "/>
+
 
 <img align="right" src="https://paper.tanyaodan.com/img/cat.jpg" height="150" width="150"/>
 
