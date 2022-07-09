@@ -1,5 +1,5 @@
   <h1 align="center"> 
-      	<img src="https://readme-typing-svg.herokuapp.com/?lines= console.log(%22Hello%2C%20World!%22);Keep calm and carry on!&center=true&size=27"> 
+      	<img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=Keep calm and carry on&center=true&size=27"> 
   </h1> 
 
   <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div> 
