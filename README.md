@@ -1,5 +1,5 @@
   <h1 align="center"> 
-      	<img src="https://readme-typing-svg.herokuapp.com/?color=%23F70000&lines=Keep%20calm%20and%20carry%20on&center=true&size=27"> 
+      	<img src="https://readme-typing-svg.herokuapp.com/?color=%22F70000&lines=Keep%20calm%20and%20carry%20on&center=true&size=27"> 
   </h1> 
 
 
@@ -11,7 +11,7 @@
 
 <img align="right" src="https://paper.tanyaodan.com/img/cat.jpg" height="150" width="150"/>
 
-- ✨ I mainly use VueJs and React for front-end development.
+- ✨ I mainly use VueJs for front-end development.
 - 🐼 I like writing tech ariticles in my **spare** time.
 
 - 🌱 Currently working in Hangzhou, China.
