@@ -39,8 +39,8 @@
 ### 📲 Contact 
 
 - [GITHUB](https://github.com/YouthguyZ)
-- [BLOG](https://YouthguyZ.github.io)
-- [GMAIL](mailto:axegan88@gmail.com)
+- [BLOG](https://ahaoo.top)
+- [MAIL](mailto:YoungguyZ@outlook.com)
 
 
 
