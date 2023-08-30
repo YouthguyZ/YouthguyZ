@@ -12,7 +12,7 @@
 <img align="right" src="https://paper.tanyaodan.com/img/cat.jpg" height="150" width="150"/>
 
 - ✨ I mainly use VueJs for front-end development.
-- 🐼 I like writing tech ariticles in my **spare** time.
+- 🐼 I like writing tech ariticles in my spare time.
 
 - 🌱 Currently working in Shanghai, China.
 - 🏀 Tracy McGrady is my favorite player.
